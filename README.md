@@ -19,3 +19,21 @@ This repository is designed to help you master the basics of Perl programming in
   - It is well known for its flexibility and powerful text-processing capabilities.
   - Perl runs on various platforms, including Unix/Linux, Windows, and macOS.
   - It is robust language used for a wide range of applications, including system administration, web development, and network programming.
+### Setup Environment
+
+To get started with Perl programming, you'll need a good Integrated Development Environment (IDE). We recommend using [Padre, the Perl IDE](https://padre.perlide.org/).
+
+#### Why Padre?
+
+- **User-Friendly**: Simple to download and use.
+- **Quick Start**: Helps you start programming quickly and efficiently.
+- **Features**: Provides a range of tools and features to streamline your development process.
+
+#### Installation Steps
+
+1. **Download**: Click [here](https://padre.perlide.org/) to download Padre.
+2. **Install**: Follow the installation instructions provided on the website.
+3. **Launch**: Open Padre and start coding!
+
+By following these steps, you'll be set up with a powerful IDE that makes Perl programming easier and more enjoyable.
+
